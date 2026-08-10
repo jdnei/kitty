@@ -2,8 +2,8 @@
 # KittyNetwork机场官方地址(2026年8月8日更新)
 KittyNetwork机场官网地址</br>
 ✅中国新疆地区可用机场</br>
-最新地址：[kitty.fo](https://kitty.fo/register?invite=MLI8V5T3)（中国大陆无法访问）</br>
-官方地址：[kitty.fo](https://kitty.fo/register?invite=MLI8V5T3)</br>
+最新地址：[kitty.fo](https://to.iix.im/kn01)（中国大陆无法访问）</br>
+官方地址：[kitty.fo](https://to.iix.im/kn01)</br>
 
 ⚠️如果需要注册这个机场，需要先注册个备用机场，开备用机场后，再注册。
 
