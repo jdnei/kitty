@@ -1,5 +1,5 @@
 
-# KittyNetwork机场官方地址(2026年8月22日更新)
+# KittyNetwork机场官方地址(2026年8月23日更新)
 KittyNetwork机场官网地址</br>
 ✅中国新疆地区可用机场</br>
 最新地址：[kitty.fo](https://to.iix.im/kn01)（中国大陆无法访问）</br>
