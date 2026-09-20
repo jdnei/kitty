@@ -5,7 +5,6 @@ KittyNetwork机场官网地址</br>
 最新地址：[kitty.fo](https://to.iix.im/kn01)（中国大陆无法访问）</br>
 官方地址：[kitty.fo](https://to.iix.im/kn01)</br>
 
-⚠️如果需要注册这个机场，需要先注册个备用机场，开备用机场后，再注册。
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
