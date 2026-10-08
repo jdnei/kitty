@@ -1,5 +1,5 @@
 
-# KittyNetwork机场官方地址(2026年10月7日更新)
+# KittyNetwork机场官方地址(2026年10月8日更新)
 KittyNetwork机场官网地址</br>
 ✅中国新疆地区可用机场</br>
 ✅2元/月·24元/年</br>
