@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт KittyNetwork VPN (обновлено 2 ноября 2026 года)
+# Официальный сайт KittyNetwork VPN (обновлено 3 ноября 2026)
 
 Официальный сайт KittyNetwork VPN<br>
 ✅ VPN-сервис работает в Синьцзяне, Китай<br>
