@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی KittyNetwork VPN(به‌روزرسانی 9 نوامبر 2026)
+# وب‌سایت رسمی KittyNetwork VPN(به‌روزرسانی 10 نوامبر 2026)
 # وب‌سایت رسمی K
 وب‌سایت رسمی KittyNetwork VPN<br>
 ✅ سرویس VPN قابل استفاده در منطقه سین‌کیانگ چین<br>
