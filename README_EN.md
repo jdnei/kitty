@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# KittyNetwork VPN Official Website (Updated November 12, 2026)
+# KittyNetwork VPN Official Website (Updated November 13, 2026)
 
 Official KittyNetwork VPN Website<br>
 ✅ VPN Service Available in Xinjiang, China<br>
